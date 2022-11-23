@@ -19,6 +19,3 @@ jobs:
         run: |
           yarn
           yarn checkin
-runs:
-  using: 'node16'
-  main: 'checkin.js'

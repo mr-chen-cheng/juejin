@@ -19,6 +19,3 @@ jobs:
         run: |
           yarn
           yarn seaGold
-runs:
-  using: 'node16'
-  main: 'seaGold.js'
